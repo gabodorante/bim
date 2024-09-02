@@ -1,0 +1,17 @@
+﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price
+040504,04,0405,,2,Demolición de losa de escalera de hormigón.,,,,1,7.6,8,m,
+MAQ0002,,,040504,5,[MAQ0002] Martillo neumático.,,,0.99,1.0421,,,Horas,4.57
+MAQ0003,,,040504,5,[MAQ0003] Compresor portátil diésel media presión 10 m3/min.,,,0.5,0.5263,,,Horas,7.75
+MAQ0007,,,040504,5,[MAQ0007] Equipo de oxicorte. con acetileno como combustible y oxígeno como comburente.,,,0.25,0.2632,,,Horas,8.41
+O01OA080,,,040504,4,[O01OA080] Oficial 1ª,,,0.25,0.2632,,,Horas,22.27
+O01OA071,,,040504,4,[O01OA071] Peón especializado,,,1,1.0526,,,Horas,22.43
+O01OA070,,,040504,4,[O01OA070] Peón ordinario,,,1,1.0526,,,Horas,21.15
+,,,040504,7,Demolición de losa de escalera de hormigón armado. hasta 25 cm de espesor. y peldaños. con medios manuales. martillo neumático y equipo de oxicorte. y carga manual sobre camión o contenedor,,,,,,,,
+040501,04,0405,,2,Demolición de forjado de hormigón armado. con medios manuales. Hasta 20 cm,,,,1,6.75,8,m,
+MAQ0002,,,040501,5,[MAQ0002] Martillo neumático.,,,0.99,1.1733,,,Horas,4.57
+MAQ0003,,,040501,5,[MAQ0003] Compresor portátil diésel media presión 10 m3/min.,,,0.27,0.32,,,Horas,7.75
+MAQ0007,,,040501,5,[MAQ0007] Equipo de oxicorte. con acetileno como combustible y oxígeno como comburente.,,,0.3,0.3556,,,Horas,8.41
+O01OA080,,,040501,4,[O01OA080] Oficial 1ª,,,0.3,0.3556,,,Horas,22.27
+O01OA071,,,040501,4,[O01OA071] Peón especializado,,,1,1.1852,,,Horas,22.43
+O01OA070,,,040501,4,[O01OA070] Peón ordinario,,,0.75,0.8889,,,Horas,21.15
+,,,040501,7,Demolición de losa maciza de hormigón armado de hasta 20 cm de canto total. con medios manuales. martillo neumático y equipo de oxicorte. previo levantado del pavimento y su base. y carga manual sobre camión o contenedor. El precio no incluye el levantado del pavimento.,,,,,,,,
